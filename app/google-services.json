@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387473594207",
+    "project_id": "mustafa-tv",
+    "storage_bucket": "mustafa-tv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387473594207:android:0876e55b52c795066008ea",
+        "android_client_info": {
+          "package_name": "com.alshawish.mustafatv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387473594207-mtncg7ulbp8ul55l0eoicqseto701epa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYZHe5CT4IniFM0jDIV-95Bb-RN2rczoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387473594207-mtncg7ulbp8ul55l0eoicqseto701epa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
